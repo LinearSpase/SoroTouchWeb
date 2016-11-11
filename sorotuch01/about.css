@@ -66,3 +66,7 @@ table{
   width: 1000px;
   text-align: center;
 }
+
+.sentens li{
+    font-size: 20px;
+}
